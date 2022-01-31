@@ -90,7 +90,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>webapp</finalName>
+		<finalName>/webapp</finalName>
 
 		<plugins>
 			<plugin>
@@ -106,6 +106,6 @@
 
 	</build>
 	<version>v4</version>
-	<name>WebApp Struts2</name>
+	<name>/WebApp Struts2</name>
 	<description>An Archetype with JPA 2.1; Struts2 core 2.3.28.1; Jquery struts plugin; Struts BootStrap plugin; json Struts plugin; Login System using Session and Interceptor</description>
 </project>
